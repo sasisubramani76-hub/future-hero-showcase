@@ -59,11 +59,10 @@ export const Hero = () => {
           <h1 className="text-5xl md:text-7xl font-bold mb-6 text-foreground">
             Shape the Future with Technology
           </h1>
-          <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-            Discover cutting-edge fields that are revolutionizing industries and creating tomorrow's innovations
+          <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-aut        
           </p>
           <Button variant="hero" size="lg" className="text-lg px-8 py-6">
-            Explore Now
+            Get in Touch
           </Button>
         </div>
 
